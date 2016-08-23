@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D013-4F4F
+
+ Directory of D:\temp
+
+08/23/2016  11:36 AM    <DIR>          .
+08/23/2016  11:36 AM    <DIR>          ..
+08/23/2016  11:36 AM                 0 out.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,372,434,944 bytes free
